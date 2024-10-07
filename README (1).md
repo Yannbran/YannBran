@@ -2,7 +2,7 @@
 
 <h1 align="center";>Salut 👋, je m'appel Yann</h1>
 <p align="center">
-<img src="/images/profil.webp" style="border-radius: 30px;" alt='photo de yann'>
+<img src="/images/profil-round.webp"  alt='photo de yann'>
 </p>
 <h3 align="center";>Je suis un développeur web fullstack passionné.</h3>
 
