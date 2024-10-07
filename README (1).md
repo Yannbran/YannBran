@@ -1,7 +1,9 @@
 
 
 <h1 align="center";>Salut 👋, je m'appel Yann</h1>
-<img src="/images/profil.webp" style="border-radius: 30px"; alt='photo de yann'>
+<p align="center">
+<img src="/images/profil.webp" style="border-radius: 30px;" alt='photo de yann'>
+</p>
 <h3 align="center";>Je suis un développeur web fullstack passionné.</h3>
 
 <p align="left";> <img src="https://komarev.com/ghpvc/?username=yannbran&label=Profile%20views&color=0e75b6&style=flat" alt="yannbran" /> </p>
