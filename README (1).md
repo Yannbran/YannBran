@@ -1,10 +1,10 @@
 
 
-<h1 align="center">Salut 👋, je m'appel Yann</h1>
-<img src="/images/profil.webp" style="border-radius: 5vw" alt='photo de yann'>
-<h3 align="center">Je suis un développeur web fullstack passionné.</h3>
+<h1 align="center";>Salut 👋, je m'appel Yann</h1>
+<img src="/images/profil.webp" style="border-radius: 5vw"; alt='photo de yann'>
+<h3 align="center";>Je suis un développeur web fullstack passionné.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yannbran&label=Profile%20views&color=0e75b6&style=flat" alt="yannbran" /> </p>
+<p align="left";> <img src="https://komarev.com/ghpvc/?username=yannbran&label=Profile%20views&color=0e75b6&style=flat" alt="yannbran" /> </p>
 
 - 🌱 En ce moment j'apprends le langage Kotklin. **Android Studio**
 
