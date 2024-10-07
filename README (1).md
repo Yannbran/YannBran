@@ -1,3 +1,5 @@
+
+<img src="/images/profil.jpg" border-radius="5vw" alt='photo de yann'>
 <h1 align="center">Salut 👋, je m'appel Yann</h1>
 <h3 align="center">Je suis un développeur web fullstack passionné.</h3>
 
