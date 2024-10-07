@@ -7,6 +7,8 @@
 
 - 📫 Comment me joindre **yann06.dev@gmail.com**
 
+- N'hésitez pas à me contacter pour toute demande ou collaboration sur vos projets professionnels ou personnels.
+
 <p align="left">
 </p>
 
