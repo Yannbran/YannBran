@@ -1,6 +1,6 @@
 
 
-<h1 align="center";>Salut 👋, je m'appel Yann</h1>
+<h1 align="center";>Salut 👋, je m'appelle Yann</h1>
 <p align="center">
 <img src="/images/profil8CV3.png" width="250" height="250" alt='photo de yann'>
 </p>
