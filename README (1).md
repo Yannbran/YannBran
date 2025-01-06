@@ -8,7 +8,7 @@
 
 <p align="left";> <img src="https://komarev.com/ghpvc/?username=yannbran&label=Profile%20views&color=0e75b6&style=flat" alt="yannbran" /> </p>
 
-- 🌱 En ce moment j'apprends le langage Kotklin. **Android Studio**
+- 🌱 En ce moment je code un site e-commerce de dropshipping avec next.js 15 et node.js.
 
 - 📫 Comment me joindre **yann06.dev@gmail.com**
 
